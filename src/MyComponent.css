@@ -1,0 +1,22 @@
+.my-component {
+  background-color: lightblue;
+  padding: 20px;
+  border: 1px solid #1e6091;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto 20px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.my-component h1 {
+  color: navy;
+  margin: 0 0 12px 0;
+  font-size: 1.75rem;
+}
+
+.my-component p {
+  font-size: 16px;
+  color: #1a2a3a;
+  margin: 0;
+}
